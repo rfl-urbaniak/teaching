@@ -1,5 +1,5 @@
 ---
-title: "Rafal Urbaniak's teaching materials and information"
+title: "
 layout: page
 toc: true
 output:
