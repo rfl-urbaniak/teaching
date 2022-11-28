@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Projects
+title: ""
 ---
 
 * TOC
 {:toc}
 
-## General (Bayesian) methodology for philosophers
+### General (Bayesian) methodology for philosophers
 
 

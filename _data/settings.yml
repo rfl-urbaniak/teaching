@@ -7,7 +7,7 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'Visualisation', path: 'menu', url: 'visualisation.html'}
+- {name: 'Visualization', path: 'menu', url: 'visualization.html'}
 - {name: 'Criminology', path: 'menu', url: 'criminology.html'}
 - {name: 'Methodology', path: 'menu', url: 'methodology.html'}
 

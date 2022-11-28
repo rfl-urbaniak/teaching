@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Projects
+title: ""
 ---
 
 * TOC
 {:toc}
 
-## Introduction to Bayesian data analysis for criminology
+### Introduction to Bayesian data analysis for criminology
