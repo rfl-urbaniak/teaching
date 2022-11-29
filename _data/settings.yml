@@ -10,7 +10,6 @@ menu:
 - {name: 'Visualization', path: 'menu', url: 'visualization.html'}
 - {name: 'Criminology', path: 'menu', url: 'criminology.html'}
 - {name: 'Methodology', path: 'menu', url: 'methodology.html'}
-- {name: 'About', path: 'menu', url: 'https://rfl-urbaniak.github.io/menu/about.html'}
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'home', link: 'https://rfl-urbaniak.github.io/menu/about.html'}
