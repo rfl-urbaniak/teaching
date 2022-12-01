@@ -8,15 +8,18 @@ output:
     preserve_yaml: true
 ---
 
-<img src="../images/finalFinal.jpg" alt="Course Announcement" width="580" style="float: left; padding: 15px 15px 15px 15px;"/>
+![Brief course announcement](https://rfl-urbaniak.github.io/teaching//images/finalFinal.jpg "")
 
-<p>
+
+<img src="https://rfl-urbaniak.github.io/teaching//images/finalFinal.jpg" alt="Course Announcement" width="580" style="float: left; padding: 15px 15px 15px 15px;"/>
+
+
 
 **Contents**
 * TOC
 {:toc}
 
-</p>
+
 
 
 ### What can I learn?
@@ -78,4 +81,4 @@ Please fill in our [registration form](https://forms.gle/3Ru5vwe1Fs3tJpyD9) by D
 
 Further questions?
 
-We’ll be happy to address your further questions or concerns, if you drop us a line at  <a href="rfl.urbaniak+teaching@gmail.com">rfl.urbaniak+teaching@gmail.com</a>.
+We’ll be happy to address your further questions or concerns, if you drop us a line at  <a href="mailto:rfl.urbaniak+teaching@gmail.com">rfl.urbaniak+teaching@gmail.com</a>.
