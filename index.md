@@ -8,7 +8,7 @@ output:
     preserve_yaml: true
 ---
 
-
+<img src="../images/finalFinal.png" alt="Course Announcement" width="280" style="float: left; padding: 15px 15px 15px 15px;"/>
 
 
 **Contents**
@@ -77,5 +77,5 @@ Please fill in our [registration form](https://forms.gle/3Ru5vwe1Fs3tJpyD9) by D
 
 Further questions?
 
-We’ll be happy to address your further questions or concerns, if you drop us a line at (rfl.urbaniak+teaching@gmail.com)[rfl.urbaniak+teaching@gmail.com].
+We’ll be happy to address your further questions or concerns, if you drop us a line at  [rfl.urbaniak+teaching@gmail.com](rfl.urbaniak+teaching@gmail.com).
 
