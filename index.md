@@ -8,8 +8,6 @@ output:
     preserve_yaml: true
 ---
 
-![Brief course announcement](https://rfl-urbaniak.github.io/teaching//images/finalFinal.jpg "")
-
 
 <img src="https://rfl-urbaniak.github.io/teaching//images/finalFinal.jpg" alt="Course Announcement" width="580" style="float: left; padding: 15px 15px 15px 15px;"/>
 
