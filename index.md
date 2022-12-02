@@ -22,20 +22,21 @@ output:
 
 ### What can I learn?
 
-In the upcoming semester we’ll be teaching two university courses in English at the University of Gdansk. If you are a Ukrainian citizen willing to learn this material (see eligibility conditions below), you’re more than welcome to join! 
+In the upcoming semester, we’re excited to make two of our university courses in data analysis (in English) at the University of Gdansk open for Ukrainian Citizens. If you are a Ukrainian citizen willing to learn this material (see eligibility conditions below), you’re more than welcome to join! 
 
-Both programs will comprise 10 hours of lectures, and the rest of the time will be spent in front of the computers, developing your skills in our computer lab. 
+Each program will consist of 10 hours of lectures, with the remaining time dedicated to hands-on practice and skill development in our computer lab. We look forward to seeing you there!
+
 
 **Criminological Research Methods (40h including 30h supervised work)**  will introduce you to  Bayesian statistical programming and causal inference in R for criminological applications. You will be joining a class of our Criminology students at the University of Gdansk.
 
-**Data Analysis and Visualization for Journalism Studies (30h including 20h supervised work)** will teach you basic methods and principles of data visualization and introduce the fundamentals of Bayesian analysis with R and ggplot2.  You will be joining our Journalism Studies students  at the University of Gdansk. 
+**Data Analysis and Visualization for Journalism Studies (30h including 20h supervised work)** will teach you basic methods and principles of data visualization and introduce the fundamentals of Bayesian analysis with R and ggplot2.  You will be joining our Journalism Studies students at the University of Gdansk. 
 
 You can attend either of the courses or only one of them, please specify your preference in the registration form (linked below). 
 
 
 ### What is the timeline?
 
-If you want to participate, please [register using the following form](https://forms.gle/3Ru5vwe1Fs3tJpyD9) by the end of year 2022 - we have a limited number of slots, acceptance in the program is first come first served.
+If you want to participate, please [register using the following form](https://forms.gle/3Ru5vwe1Fs3tJpyD9) by the end of the year 2022 - we have a limited number of slots, acceptance in the program is first come first served.
 
 - Registration deadline: December 31, 2022
 - Acceptance/rejection notification: January 16, 2022
@@ -47,7 +48,7 @@ Both courses will be conducted at the University of Gdańsk by dr hab. Rafal Urb
 [Nikodem Lewandowski](https://niklewa.github.io), who is about to complete his master’s degree and has a postgraduate degree in data science.
 
 Rafal is a philosophy professor obsessed with probability and data and in love with the programming language **R**. He enjoys probabilistic 
-(especially Bayesian) thinking about issues that he is convinced matter a lot. These include criminal evidence evaluation, the study of online aggression and its mitigation measures, measures of bias in natural language processing tools, the use of Monte Carlo methods to argue that standard backtesting methods in algorithmic trading are flawed, or imprecise probabilities in expert testimony. Rafal obtained his PhD in Philosophy from the University of Calgary. He’s been a British Academy Visiting Fellow, a Trinity College Long Room Hub Visiting Fellow, a Postdoctoral Fellow of Research Foundation Flanders, a Kosciuszko Fellow at the Northeastern University in Boston and a Bendarowski Fellow at the University of Edinburg, and generally has some experience in trying to feel at home at various places. Now he is an associate professor at the University of Gdansk, running a National Science Centre project of legal probabilism. He is a co-author of the Stanford Encyclopedia of Philosophy entry on legal probabilism.
+(especially Bayesian) thinking about issues that he is convinced matter a lot. These include criminal evidence evaluation, the study of online aggression and its mitigation measures, measures of bias in natural language processing tools, the use of Monte Carlo methods to argue that standard backtesting methods in algorithmic trading are flawed, or imprecise probabilities in expert testimony. Rafal obtained his PhD in Philosophy from the University of Calgary. He’s been a British Academy Visiting Fellow, a Trinity College Long Room Hub Visiting Fellow, a Postdoctoral Fellow of Research Foundation Flanders, a Kosciuszko Fellow at the Northeastern University in Boston, and a Bendarowski Fellow at the University of Edinburg, and generally has some experience in trying to feel at home at various places. Now he is an associate professor at the University of Gdansk, running a National Science Centre project on legal probabilism. He is a co-author of the Stanford Encyclopedia of Philosophy entry on legal probabilism.
 
 
 
@@ -77,6 +78,6 @@ Yes, we will issue completion certificates, including our assessment of your per
 
 Please fill in our [registration form](https://forms.gle/3Ru5vwe1Fs3tJpyD9) by December 31, 2022, we’ll be in touch by January 16, 2023.
 
-Further questions?
+### Further questions?
 
 We’ll be happy to address your further questions or concerns, if you drop us a line at  <a href="mailto:rfl.urbaniak+teaching@gmail.com">rfl.urbaniak+teaching@gmail.com</a>.
