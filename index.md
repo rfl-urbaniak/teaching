@@ -44,7 +44,7 @@ If you want to participate, please [register using the following form](https://f
 
 ### Who are we?
 
-Both courses will be conducted at the University of Gdańsk by dr hab. Rafal Urbaniak, prof. UG (here’s some of his [work](https://ug.academia.edu/Rafa%C5%82Urbaniak)), with the assistance of 
+Both courses will be conducted at the University of Gdansk by dr hab. Rafal Urbaniak, prof. UG (here’s some of his [work](https://ug.academia.edu/Rafa%C5%82Urbaniak)), with the assistance of 
 [Nikodem Lewandowski](https://niklewa.github.io), who is about to complete his master’s degree and has a postgraduate degree in data science.
 
 Rafal is a philosophy professor obsessed with probability and data and in love with the programming language **R**. He enjoys probabilistic 
