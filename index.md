@@ -63,7 +63,7 @@ No programming background is required. You do not need to own a computer. If you
 
 - Knowledge of the English language is a prerequisite, the courses will be taught fully in English. We don’t care about certificates. We care whether you can understand.
 
-- There is no age restriction. You can be any age, as long as you want to learn and can follow the classes, we don’t care whether you’re 10 or 80 years old.
+- There is no age restriction. You can be any age, as long as you want to learn and can follow the classes, we don’t care whether you’re 10 or 80 years old. However, if you're underage, we can't take responsibility for your safety - teaching Bayesian stats is easy, caring for humans is not - so sort it out with your guardian.
 
 - You do not have to be registered as a student at any institution, in Poland or elsewhere. As long as you want to learn and can follow the classes, we don’t care.
 
@@ -77,6 +77,18 @@ Yes, we will issue completion certificates, including our assessment of your per
 ### So how do I sign up?
 
 Please fill in our [registration form](https://forms.gle/3Ru5vwe1Fs3tJpyD9) by December 31, 2022, we’ll be in touch by January 16, 2023.
+
+### Wait, I'm a registered student, will all those additional folks not decrease the quality of my class?
+
+Nah, they'll improve it. For one thing, Nikodem wouldn't be with us if we weren't doing it, so we'll have an extra pair of qualified hands to help us out both in the lab and outside of it, and we also started preparations for the classes way ahead of the time to make sure we're ready. Also, you get to meet cool and ambitious people you wouldn't have otherwise met, and this is perhaps worth more than the class itself.
+
+
+### I am not a registered student, and I'm considering signing up. But won't I be a burden?
+
+Nah, not a problem at all, that's the least we could do. We'll be there for all of you, you'll belong to the group, and if anything makes you feel different, come talk to us and we'll do our best to sort it out!
+
+
+
 
 ### Further questions?
 
