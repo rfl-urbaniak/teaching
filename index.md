@@ -80,7 +80,7 @@ Please fill in our [registration form](https://forms.gle/3Ru5vwe1Fs3tJpyD9) by D
 
 ### Wait, I'm a registered student, will all those additional folks not decrease the quality of my class?
 
-Nah, they'll improve it. For one thing, Nikodem wouldn't be with us if we weren't doing it, so we'll have an extra pair of qualified hands to help us out both in the lab and outside of it, and we also started preparations for the classes way ahead of the time to make sure we're ready. Also, you get to meet cool and ambitious people you wouldn't have otherwise met, and this is perhaps worth more than the class itself.
+Nah, they'll improve it. For one thing, Nikodem wouldn't be with us if we weren't doing it, so we'll have an extra pair of qualified hands to help us out both in the lab and outside of it. Second, we started preparations for the classes way ahead of the time to make sure we're ready. Also, you get to meet cool and ambitious people you wouldn't have otherwise met, and this is perhaps worth more than the class itself.
 
 
 ### I am not a registered student, and I'm considering signing up. But won't I be a burden?
