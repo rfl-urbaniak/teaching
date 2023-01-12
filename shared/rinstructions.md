@@ -8,7 +8,7 @@ title: ""
 ### SETUP: before the first tutorial
 
 
-1. FAMILIARIZE YOURSELF WITH THE BASICS OF GIT AND GITHUB AND START YOUR OWN REPO FOR USE IN THIS CLASS SO THAT YOUR WORK IN CLASS IS NOT LOST
+1. FAMILIARIZE YOURSELF WITH THE BASICS OF GIT AND GITHUB AND START YOUR OWN REPO FOR USE IN THIS CLASS SO THAT YOUR WORK IN CLASS IS NOT LOST  
 
 Throughout the course we will be using a version control method so that you can access your work from any computer that's online and keep track of the changes you introduced, and revert if you make a serious mistake. For this purpose, we will be using GitHub.
 
