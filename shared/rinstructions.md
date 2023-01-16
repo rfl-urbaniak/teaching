@@ -27,11 +27,11 @@ If git (the local software you need to use github) is not available on your mach
 
 And if you prefer to read about creating a new repo: 
 
-    <a href="https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository">https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository</a>
+    https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository
 
     
 
-
+<a href="link">text</a>
 
 
 <b>2. We will be using R programming language and Rstudio (R IDE) in class. Familiarize ypurself with the basics of these, before coming to the first tutorial </b>
@@ -43,7 +43,7 @@ And if you prefer to read about creating a new repo:
     
 2.2 If you plan to work from home on your own computer, install R and Rstudio. Computers in the tutorial laboratory have them installed. There are some additional packages and requirements that we use. Instructions for their installation are available HERE [LINK]. If you don't understand them at this point, don't worry, we'll sort it out later on. If you do, feel free to use them to install the libraries. 
 
-2.3 Read Chapter Three of Kruschke's book [LINK] 
+2.3 Read Chapter Three of Kruschke's book [LINK]  <a href="https://rfl-urbaniak.github.io/teaching/shared/Ch3_Kruschke.pdf">book</a>
 
  2.4 Go through some basic practice in R by using swirl, as practice is the best way to learn programming. That is, choose short course: 
 
@@ -59,4 +59,4 @@ for installation and instructions (it's best to type in the terminal at the bott
 
 
 
-
+Ch3, Doing Bayesian Data Analysis A Tutorial with R, JAGS, and Stan by John Kruschke.pdf
