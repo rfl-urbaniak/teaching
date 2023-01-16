@@ -27,23 +27,27 @@ If git (the local software you need to use github) is not available on your mach
 
 And if you prefer to read about creating a new repo: 
 
-    https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository
+    <a href="https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository">https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository</a>
+
+    
+
+
 
 
 <b>2. We will be using R programming language and Rstudio (R IDE) in class. Familiarize ypurself with the basics of these, before coming to the first tutorial </b>
 
-<b>2.1  Watch these introductory tutorials </b>
+2.1  Watch these introductory tutorials 
 
     - https://www.youtube.com/watch?v=FIrsOBy5k58
     - https://www.youtube.com/watch?v=FY8BISK5DpM
     
-<b>2.2 If you plan to work from home on your own computer, install R and Rstudio. Computers in the tutorial laboratory have them installed. There are some additional packages and requirements that we use. Instructions for their installation are available HERE [LINK]. If you don't understand them at this point, don't worry, we'll sort it out later on. If you do, feel free to use them to install the libraries. </b>
+2.2 If you plan to work from home on your own computer, install R and Rstudio. Computers in the tutorial laboratory have them installed. There are some additional packages and requirements that we use. Instructions for their installation are available HERE [LINK]. If you don't understand them at this point, don't worry, we'll sort it out later on. If you do, feel free to use them to install the libraries. 
 
-<b>2.3 Read Chapter Three of Kruschke's book [LINK] </b>
+2.3 Read Chapter Three of Kruschke's book [LINK] 
 
-<b> 2.4 Go through some basic practice in R by using swirl, as practice is the best way to learn programming. That is, choose short course: </b>
+ 2.4 Go through some basic practice in R by using swirl, as practice is the best way to learn programming. That is, choose short course: 
 
-        1: R Programming: The basics of programming in R
+     1: R Programming: The basics of programming in R
 
 using the swirl library.  See:  
 
