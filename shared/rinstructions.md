@@ -15,17 +15,20 @@ Before the tutorial,  start a new private repo for your use in the course (call 
 
 If you are not familiar with it, please watch these short tutorials:
 
-https://www.youtube.com/watch?v=8Dd7KRpKeaE
-https://www.youtube.com/watch?v=iv8rSLsi1xo
+    - https://www.youtube.com/watch?v=8Dd7KRpKeaE
+    - https://www.youtube.com/watch?v=iv8rSLsi1xo
+
 
 If git (the local software you need to use github) is not available on your machine, follow these links to install it:
 
-https://git-scm.com/downloads
-https://support.posit.co/hc/en-us/articles/200532077
+    - https://git-scm.com/downloads
+    - https://support.posit.co/hc/en-us/articles/200532077
+
 
 And if you prefer to read about creating a new repo: 
 
-https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository
+    https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository
+
 
 <b>2. We will be using R programming language and Rstudio (R IDE) in class. Familiarize ypurself with the basics of these, before coming to the first tutorial </b>
 
@@ -42,9 +45,11 @@ https://docs.github.com/en/repositories/creating-and-managing-repositories/creat
 
         1: R Programming: The basics of programming in R
 
-using the swirl library.  See:
+using the swirl library.  See:  
 
-https://swirlstats.com/students.html
+    https://swirlstats.com/students.html
+
+
 
 for installation and instructions (it's best to type in the terminal at the bottom of Rstudio when using swirl).
 
