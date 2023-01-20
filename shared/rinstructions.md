@@ -15,13 +15,13 @@ Before the tutorial, create a new private repository (call it any way you like) 
 
 If you are not familiar with Git and GitHub, please watch the following tutorials:
 
-<a href="https://www.youtube.com/watch?v=8Dd7KRpKeaE ">https://www.youtube.com/watch?v=8Dd7KRpKeaE</a>
+<a href="https://www.youtube.com/watch?v=8Dd7KRpKeaE ">https://www.youtube.com/watch?v=8Dd7KRpKeaE</a>      
 <a href="https://www.youtube.com/watch?v=iv8rSLsi1xo">https://www.youtube.com/watch?v=iv8rSLsi1xo</a>
 
 
 If git (the local software you need to use GitHub) is not available on your machine, follow these links to install it:
 
-<a href="https://git-scm.com/downloads">https://git-scm.com/downloads</a>
+<a href="https://git-scm.com/downloads">https://git-scm.com/downloads</a>       
 <a href="https://support.posit.co/hc/en-us/articles/200532077">https://support.posit.co/hc/en-us/articles/200532077</a>
 
 
@@ -34,7 +34,7 @@ And if you prefer to read about creating a new repo:
 
 2.1  Watch these introductory tutorials: 
 
-<a href="https://www.youtube.com/watch?v=FIrsOBy5k58">https://www.youtube.com/watch?v=FIrsOBy5k58</a>
+<a href="https://www.youtube.com/watch?v=FIrsOBy5k58">https://www.youtube.com/watch?v=FIrsOBy5k58</a>           
 <a href="https://www.youtube.com/watch?v=FY8BISK5DpM ">https://www.youtube.com/watch?v=FY8BISK5DpM </a>
     
 2.2 If you plan to work on the course material from your own computer, please make sure to install R and RStudio before the first tutorial. The computers in the tutorial laboratory will already have them installed. Additionally, there are some additional packages and requirements that we will be using throughout the course. Instructions for their installation can be found <a href="https://rfl-urbaniak.github.io/teaching/shared/setup_installation_instruction.pdf">HERE</a>. If you are unsure about how to install these libraries at this point, don't worry as we will go over it in class. However, if you are comfortable with it, feel free to use the instructions to install the libraries now.
