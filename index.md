@@ -8,6 +8,7 @@ output:
     preserve_yaml: true
 ---
 
+<iframe src="https://calendar.google.com/calendar/embed?src=ke1651dpc3ol5l62v2c0m89p1k%40group.calendar.google.com&ctz=Europe%2FWarsaw" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 <img src="https://rfl-urbaniak.github.io/teaching//images/finalFinal.jpg" alt="Course Announcement" width="580" style="float: left; padding: 15px 15px 15px 15px;"/>
 
