@@ -8,7 +8,10 @@ output:
     preserve_yaml: true
 ---
 
-<iframe src="https://calendar.google.com/calendar/embed?src=ke1651dpc3ol5l62v2c0m89p1k%40group.calendar.google.com&ctz=Europe%2FWarsaw" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<div style="display: flex; justify-content: center;">
+  <iframe src="https://calendar.google.com/calendar/embed?height=425&wkst=1&bgcolor=%234285F4&ctz=Europe%2FWarsaw&showNav=1&showPrint=0&showTabs=1&showCalendars=1&src=a2UxNjUxZHBjM29sNWw2MnYyYzBtODlwMWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23C0CA33" style="border:solid 1px #777" width="550" height="425" frameborder="0" scrolling="no"></iframe>
+</div>
+
 
 <img src="https://rfl-urbaniak.github.io/teaching//images/finalFinal.jpg" alt="Course Announcement" width="580" style="float: left; padding: 15px 15px 15px 15px;"/>
 
