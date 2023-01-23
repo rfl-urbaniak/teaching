@@ -44,7 +44,7 @@ If you want to participate, please [register using the following form](https://f
 
 - Registration deadline: December 31, 2022
 - Acceptance/rejection notification: January 16, 2022
-- Classes: February 20 - May 15, 2023 
+- Classes: February 20 - June 12, 2023 
 
 ### Who are we?
 
