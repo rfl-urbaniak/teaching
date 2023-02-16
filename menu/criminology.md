@@ -3,7 +3,13 @@ layout: page
 title: ""
 ---
 
-
+<style>
+a {
+    color: blue;
+    margin-right: 2px;
+    margin-left: 2px;
+}
+</style>
 
 ## Introduction to Bayesian data analysis for criminology
 

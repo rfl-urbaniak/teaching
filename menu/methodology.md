@@ -2,7 +2,13 @@
 layout: page
 title: ""
 ---
-
+<style>
+a {
+    color: blue;
+    margin-right: 2px;
+    margin-left: 2px;
+}
+</style>
 
 ## General (Bayesian) methodology for philosophers
 
