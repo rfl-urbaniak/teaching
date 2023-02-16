@@ -4,9 +4,9 @@ title: ""
 ---
 
 
-### General (Bayesian) methodology for philosophers
+## General (Bayesian) methodology for philosophers
 
-## First things first
+### First things first
 
 Before we meet, please familiarize yourself with the initial setup/learning instructions, available at:
 
