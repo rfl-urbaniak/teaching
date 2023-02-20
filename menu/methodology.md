@@ -12,6 +12,12 @@ a {
 
 ## General (Bayesian) methodology for philosophers
 
+### First tutorial 
+
+After completing the initial steps described below (First things first), you're ready to download your first tutorial materials! Yay!
+
+[https://rfl-urbaniak.github.io/teaching/tutorials/m23/m23t1.zip](https://rfl-urbaniak.github.io/teaching/tutorials/m23/m23t1.zip)
+
 ### First things first
 
 Before we meet, please familiarize yourself with the initial setup/learning instructions, available at:
