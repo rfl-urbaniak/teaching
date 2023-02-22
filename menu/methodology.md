@@ -12,6 +12,10 @@ a {
 
 ## General (Bayesian) methodology for philosophers
 
+### First lecture
+
+You can download the first lecture presentation here: <a href="https://rfl-urbaniak.github.io/teaching/sharedResources/lectures/m23l1.pdf">Lecture 1</a>
+
 ### First tutorial 
 
 After completing the initial steps described below (First things first), you're ready to download your first tutorial materials! Yay!

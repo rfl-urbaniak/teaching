@@ -12,6 +12,9 @@ a {
 
 ## Data visualisation and introduction to Bayesian data analysis for journalism studies
 
+### First lecture
+
+You can download the first lecture presentation here: <a href="https://rfl-urbaniak.github.io/teaching/sharedResources/lectures/vis23l1.pdf">Lecture 1</a>
 
 ### First tutorial 
 
