@@ -13,6 +13,10 @@ a {
 
 ## Introduction to Bayesian data analysis for criminology
 
+### First lecture
+
+You can download the first lecture presentation here: <a href="https://rfl-urbaniak.github.io/teaching/sharedResources/lectures/crim23l1.pdf">Lecture 1</a>
+
 ### First things first
 
 Before we meet, please familiarize yourself with the initial setup/learning instructions, available at:
