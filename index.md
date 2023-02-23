@@ -13,10 +13,6 @@ output:
 </div>
 
 
-<img src="https://rfl-urbaniak.github.io/teaching//images/finalFinal.jpg" alt="Course Announcement" width="580" style="float: left; padding: 15px 15px 15px 15px;"/>
-
-
-
 **Contents**
 * TOC
 {:toc}
