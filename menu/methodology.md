@@ -12,6 +12,14 @@ a {
 
 ## General (Bayesian) methodology for philosophers
 
+### Second lecture and reading materials
+
+You can download the second lecture presentation here: <a href="https://rfl-urbaniak.github.io/teaching/sharedResources/lectures/m23l2.pdf">Lecture 2</a>
+
+As a supplement to our first two lectures, we are providing you with two chapters (2,3) from the book titled <i>Statistical Rethinking</i> by R. McElreath. These chapters are relevant to the topics we cover in class and may prove useful in your understanding of the course material. Also, you can watch lectures created by the author of this book on youtube, they are based exactly on the chapters: <a href="https://www.youtube.com/playlist?list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus">https://www.youtube.com/playlist?list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus/a> 
+
+<a href="https://rfl-urbaniak.github.io/teaching/sharedResources/StatisticalRethinkingCh2&3.pdf">Rethinking chapters: 2,3</a>
+
 ### First lecture
 
 You can download the first lecture presentation here: <a href="https://rfl-urbaniak.github.io/teaching/sharedResources/lectures/m23l1.pdf">Lecture 1</a>
