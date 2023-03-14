@@ -12,6 +12,10 @@ a {
 
 ## General (Bayesian) methodology for philosophers
 
+### Third lecture
+
+You can download the third lecture presentation here: <a href="https://rfl-urbaniak.github.io/teaching/sharedResources/lectures/m23l3.pdf">Lecture 3</a>
+
 ### Second lecture and reading materials
 
 You can download the second lecture presentation here: <a href="https://rfl-urbaniak.github.io/teaching/sharedResources/lectures/m23l2.pdf">Lecture 2</a>
