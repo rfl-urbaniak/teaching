@@ -14,7 +14,7 @@ a {
 
 ### Titanic additional visualizations
 
-[https://rfl-urbaniak.github.io/teaching/tutorials/vis23/titanic.zip](titanic data visualization)
+<a href="https://rfl-urbaniak.github.io/teaching/tutorials/vis23/titanic.zip">titanic data visualization</a>
 
 ### First lecture
 
