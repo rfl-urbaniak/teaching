@@ -30,9 +30,16 @@ You can download the file with our first tutorial materials here:
 [https://rfl-urbaniak.github.io/teaching/tutorials/crim23/crim23t1.zip](https://rfl-urbaniak.github.io/teaching/tutorials/crim23/crim23t1.zip)
 
 
-### First lecture
+### Lectures
 
-You can download the first lecture presentation here: <a href="https://rfl-urbaniak.github.io/teaching/sharedResources/lectures/crim23l1.pdf">Lecture 1</a>
+You can download the lecture presentations here:
+- <a href="https://rfl-urbaniak.github.io/teaching/sharedResources/lectures/crim23l1.pdf">Lecture 1</a>
+- <a href="https://rfl-urbaniak.github.io/teaching/sharedResources/lectures/crim23l2.pdf">Lecture 2</a>
+- <a href="https://rfl-urbaniak.github.io/teaching/sharedResources/lectures/m23l3.pdf">Lecture 3</a>
+- <a href="https://rfl-urbaniak.github.io/teaching/sharedResources/lectures/m23l4.pdf">Lecture 4</a>
+- <a href="https://rfl-urbaniak.github.io/teaching/sharedResources/lectures/m23l5.pdf">Lecture 5</a>
+- <a href="https://rfl-urbaniak.github.io/teaching/sharedResources/lectures/m23l6.pdf">Lecture 6</a>
+
 
 ### First things first
 
