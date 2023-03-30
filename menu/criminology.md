@@ -39,6 +39,7 @@ You can download the lecture presentations here:
 - <a href="https://rfl-urbaniak.github.io/teaching/sharedResources/lectures/m23l4.pdf">Lecture 4</a>
 - <a href="https://rfl-urbaniak.github.io/teaching/sharedResources/lectures/m23l5.pdf">Lecture 5</a>
 - <a href="https://rfl-urbaniak.github.io/teaching/sharedResources/lectures/m23l6.pdf">Lecture 6</a>
+- <a href="https://rfl-urbaniak.github.io/teaching/sharedResources/lectures/m23l7.pdf">Lecture 7</a>
 
 
 ### First things first

@@ -16,22 +16,23 @@ a {
 
 [https://rfl-urbaniak.github.io/teaching/tutorials/m23/m23t2.zip](https://rfl-urbaniak.github.io/teaching/tutorials/m23/m23t2.zip)
 
-### Third lecture
-
-You can download the third lecture presentation here: <a href="https://rfl-urbaniak.github.io/teaching/sharedResources/lectures/m23l3.pdf">Lecture 3</a>
-
-### Second lecture and reading materials
-
-You can download the second lecture presentation here: <a href="https://rfl-urbaniak.github.io/teaching/sharedResources/lectures/m23l2.pdf">Lecture 2</a>
+### Reading materials
 
 As a supplement to our first two lectures, we are providing you with two chapters (2,3) from the book titled <i>Statistical Rethinking</i> by R. McElreath. These chapters are relevant to the topics we cover in class and may prove useful in your understanding of the course material. Also, you can watch lectures created by the author of this book on youtube, they are based exactly on the chapters:<br> 
 <a href="https://www.youtube.com/playlist?list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus">https://www.youtube.com/playlist?list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus/a> 
 
 <a href="https://rfl-urbaniak.github.io/teaching/sharedResources/StatisticalRethinkingCh2&3.pdf">Rethinking chapters: 2,3</a>
 
-### First lecture
+### Lectures
 
-You can download the first lecture presentation here: <a href="https://rfl-urbaniak.github.io/teaching/sharedResources/lectures/m23l1.pdf">Lecture 1</a>
+You can download the lecture presentations here:
+- <a href="https://rfl-urbaniak.github.io/teaching/sharedResources/lectures/m23l1.pdf">Lecture 1</a>
+- <a href="https://rfl-urbaniak.github.io/teaching/sharedResources/lectures/m23l2.pdf">Lecture 2</a>
+- <a href="https://rfl-urbaniak.github.io/teaching/sharedResources/lectures/m23l3.pdf">Lecture 3</a>
+- <a href="https://rfl-urbaniak.github.io/teaching/sharedResources/lectures/m23l4.pdf">Lecture 4</a>
+- <a href="https://rfl-urbaniak.github.io/teaching/sharedResources/lectures/m23l5.pdf">Lecture 5</a>
+- <a href="https://rfl-urbaniak.github.io/teaching/sharedResources/lectures/m23l6.pdf">Lecture 6</a>
+- <a href="https://rfl-urbaniak.github.io/teaching/sharedResources/lectures/m23l7.pdf">Lecture 7</a>
 
 ### First tutorial 
 
