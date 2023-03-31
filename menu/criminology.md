@@ -15,8 +15,14 @@ a {
 
 
 
+### Shonubi dataset and blank script
 
-=======
+
+You can download the zipped files here:
+[https://rfl-urbaniak.github.io/teaching/tutorials/crim23/shonubi.zip](https://rfl-urbaniak.github.io/teaching/tutorials/crim23/shonubi.zip)
+
+
+
 ### Crime rate materials for the tutorial
 
 <a href="https://rfl-urbaniak.github.io/teaching/tutorials/crim23/firstModel.zip">First model</a>
