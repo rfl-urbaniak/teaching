@@ -13,6 +13,14 @@ a {
 
 ## Introduction to Bayesian data analysis for criminology
 
+
+### Shonubi dataset and blank script
+
+
+You can download the zipped files here:
+[https://rfl-urbaniak.github.io/teaching/tutorials/crim23/shonubi.zip](https://rfl-urbaniak.github.io/teaching/tutorials/crim23/shonubi.zip)
+
+
 ### Reading materials
 
 As a supplement to our first two lectures, we are providing you with two chapters (2,3) from the book titled <i>Statistical Rethinking</i> by R. McElreath. These chapters are relevant to the topics we cover in class and may prove useful in your understanding of the course material. Also, you can watch lectures created by the author of this book on youtube, they are based exactly on the chapters:<br>
