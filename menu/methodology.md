@@ -12,6 +12,12 @@ a {
 
 ## General (Bayesian) methodology for philosophers
 
+### Tutorial materials
+
+- <a href="https://rfl-urbaniak.github.io/teaching/tutorials/m23/shonubi.zip">Shonubi</a>
+- <a href="https://rfl-urbaniak.github.io/teaching/tutorials/m23/hubble.zip">Hubble</a> 
+
+
 ### Second tutorial
 
 [https://rfl-urbaniak.github.io/teaching/tutorials/m23/m23t2.zip](https://rfl-urbaniak.github.io/teaching/tutorials/m23/m23t2.zip)
