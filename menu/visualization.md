@@ -12,9 +12,10 @@ a {
 
 ## Data visualization and introduction to Bayesian data analysis for journalism studies
 
-### Titanic additional visualizations
+### Additional visualizations
 
-<a href="https://rfl-urbaniak.github.io/teaching/tutorials/vis23/titanic.zip">titanic data visualization</a>
+- <a href="https://rfl-urbaniak.github.io/teaching/tutorials/vis23/titanic.zip">titanic</a>
+- <a href="https://rfl-urbaniak.github.io/teaching/tutorials/vis23/hate_crime.zip">hate crime</a>
 
 ### First lecture
 
