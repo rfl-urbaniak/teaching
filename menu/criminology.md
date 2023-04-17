@@ -18,6 +18,13 @@ a {
 - <a href="https://rfl-urbaniak.github.io/teaching/sharedResources/projectTemplate.zip">Project template</a>
 
 
+### Logistic regression tutorial
+
+The files are here:
+
+[https://rfl-urbaniak.github.io/teaching/tutorials/crim23/logisticTut.zip](https://rfl-urbaniak.github.io/teaching/tutorials/crim23/logisticTut.zip)
+
+
 
 ### Shonubi dataset and blank script
 
