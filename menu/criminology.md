@@ -13,6 +13,10 @@ a {
 
 ## Introduction to Bayesian data analysis for criminology
 
+### Project template
+
+- <a href="https://rfl-urbaniak.github.io/teaching/sharedResources/projectTemplate.zip">Project template</a>
+
 
 
 ### Shonubi dataset and blank script
