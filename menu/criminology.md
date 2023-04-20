@@ -13,31 +13,27 @@ a {
 
 ## Introduction to Bayesian data analysis for criminology
 
-### Project template
+### Project 
+
+The details of your project along with the project template can be download from the link below. All the deadlines are visible in our calendar. Deadlines:
+
+1st deadline - 28 May    
+1st Rev - 4 June    
+2nd deadline - 11 June   
+2nd Rev - 18 June     
+Final deadline - 25 June    
+Grade - 30 June    
 
 - <a href="https://rfl-urbaniak.github.io/teaching/sharedResources/projectTemplate.zip">Project template</a>
 
 
 ### Logistic regression tutorial
 
-The files are here:
+- Logistic regression tutorial: <a href="https://rfl-urbaniak.github.io/teaching/tutorials/crim23/logisticTut.zip">Logistic regression</a>
 
-[https://rfl-urbaniak.github.io/teaching/tutorials/crim23/logisticTut.zip](https://rfl-urbaniak.github.io/teaching/tutorials/crim23/logisticTut.zip)
+- Shonubi dataset and blank script: <a href="https://rfl-urbaniak.github.io/teaching/tutorials/crim23/shonubi.zip">Shonubi</a>
 
-
-
-### Shonubi dataset and blank script
-
-
-You can download the zipped files here:
-[https://rfl-urbaniak.github.io/teaching/tutorials/crim23/shonubi.zip](https://rfl-urbaniak.github.io/teaching/tutorials/crim23/shonubi.zip)
-
-
-
-### Crime rate materials for the tutorial
-
-<a href="https://rfl-urbaniak.github.io/teaching/tutorials/crim23/firstModel.zip">First model</a>
-
+- Crime rate materials: <a href="https://rfl-urbaniak.github.io/teaching/tutorials/crim23/firstModel.zip">First model</a>
 
 ### Reading materials
 
