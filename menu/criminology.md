@@ -27,7 +27,7 @@ Grade - 30 June
 - <a href="https://rfl-urbaniak.github.io/teaching/sharedResources/projectTemplate.zip">Project template</a>
 
 
-### Logistic regression tutorial
+### Tutorial materials: 
 
 - Logistic regression tutorial: <a href="https://rfl-urbaniak.github.io/teaching/tutorials/crim23/logisticTut.zip">Logistic regression</a>
 
