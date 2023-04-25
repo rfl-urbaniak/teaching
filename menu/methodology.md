@@ -12,6 +12,21 @@ a {
 
 ## General (Bayesian) methodology for philosophers
 
+### Project 
+
+The details of your project along with the project template can be download from the link below. All the deadlines are visible in our calendar. Deadlines:
+
+1st deadline - 28 May    
+1st Rev - 4 June    
+2nd deadline - 11 June   
+2nd Rev - 18 June     
+Final deadline - 25 June    
+Grade - 30 June    
+
+- <a href="https://rfl-urbaniak.github.io/teaching/sharedResources/metProjectTemplate.zip">Project template</a>
+
+
+
 ### Tutorial materials
 
 - <a href="https://rfl-urbaniak.github.io/teaching/tutorials/m23/shonubi.zip">Shonubi</a>
