@@ -12,14 +12,28 @@ a {
 
 ## Data visualization and introduction to Bayesian data analysis for journalism studies
 
+### Project 
+
+The details of your project along with the project template can be download from the link below. All the deadlines are visible in our calendar. Deadlines and the template:
+
+- <a href="https://rfl-urbaniak.github.io/teaching/sharedResources/visProjectTemplate.zip">Project template</a>
+
+1st deadline - 28 May    
+1st Rev - 4 June    
+2nd deadline - 11 June   
+2nd Rev - 18 June     
+Final deadline - 25 June    
+Grade - 30 June    
+
+
 ### Additional visualizations
 
 - <a href="https://rfl-urbaniak.github.io/teaching/tutorials/vis23/titanic.zip">titanic</a>
 - <a href="https://rfl-urbaniak.github.io/teaching/tutorials/vis23/hate_crime.zip">hate crime</a>
 
-### First lecture
+### Lectures
 
-You can download the first lecture presentation here: <a href="https://rfl-urbaniak.github.io/teaching/sharedResources/lectures/vis23l1.pdf">Lecture 1</a>
+You can download combined lectures here: <a href="https://rfl-urbaniak.github.io/teaching/sharedResources/lectures/vis23combinedSlides.pdf">Combined Slides</a>
 
 ### First tutorial 
 

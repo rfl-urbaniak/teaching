@@ -1,0 +1,102 @@
+---
+title: "TITLE"
+author: "AUTHOR"
+output:
+  pdf_document:
+    number_sections: yes
+    df_print: kable
+    keep_tex: yes
+    extra_dependencies: ["flafter"]
+    includes:
+      in_header: Rafal_latex7.sty
+  html_document:
+    df_print: paged
+  word_document: default
+classoption: dvipsnames,enabledeprecatedfontcommands
+fontsize: 10pt
+documentclass: scrartcl
+urlcolor: blue
+---
+
+
+# Section title
+
+
+Some content
+
+\vspace{1mm}
+\footnotesize
+```{r,echo=FALSE,eval=TRUE,fig.align = "center",cache=TRUE, fig.show = "hold", out.width = "100%",warning = FALSE, message = FALSE, results = FALSE}
+library(extrafont)
+library(ggplot2)
+library(ggthemes)
+library(ggpubr)
+library(socviz)
+library(tidyverse)
+library(gapminder)
+library(rethinking)
+library(modelr)
+```
+\normalsize
+
+
+\vspace{1mm}
+\footnotesize
+```{r,echo=FALSE,eval=TRUE,fig.align = "center",cache=TRUE, fig.show = "hold", out.width = "100%", warning = FALSE, message = FALSE, dev="cairo_pdf"}
+ggplot(heights, aes(x= education, y = income))+
+  stat_summary(fun=mean, geom="line", size = 1, color = "skyblue")+
+  geom_jitter(width = 0.5,  alpha = 0.15, size = 1.5)+theme_tufte()+
+  ggtitle("Example of a visualisation")+xlab("education")+ylab("income")+
+  theme(plot.title.position = "plot")
+```
+\normalsize
+
+
+
+# Next section
+
+Smaller visualisation
+
+
+\vspace{1mm}
+\footnotesize
+```{r,echo=FALSE,eval=TRUE,fig.align = "left",cache=TRUE, fig.show = "hold", out.width = "50%", warning = FALSE, message = FALSE, dev="cairo_pdf"}
+p <- ggplot(oecd_sum,  aes(x = year, y = diff, fill = hi_lo))
+
+p+ geom_col() +guides(fill = FALSE)+
+labs(x = NULL, y = "Difference in Years",
+     title = "The US Life Expectancy Gap",
+     subtitle = "Difference between US and OECD
+average life expectancies, 1960-2015",
+     caption = "Data: OECD. After a chart by Christopher Ingraham,
+Washington Post, December 27th 2017.")+
+  theme_tufte()+
+  theme(plot.title.position = "plot")
+```
+\normalsize
+
+
+
+
+
+\newpage
+
+# Check list {-}
+
+- [ ] We described the context of our problem
+
+
+- [ ] We clearly stated the questions that guided our project, and why we think they are important
+
+- [ ] We located and accessed relevant data
+
+- [ ] We correctly described how the data set has been obtained
+
+
+- [ ] we constructed at least two good looking visualisations presenting the phenomenon that we are describing
+
+- [ ] we clearly explained what conclusions we are inclined to draw and why 
+
+- [ ] we considered and clearly stated potential sources of errors and doubts
+
+
