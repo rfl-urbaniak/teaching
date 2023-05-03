@@ -13,6 +13,10 @@ a {
 
 ## Introduction to Bayesian data analysis for criminology
 
+### Revision slides
+
+- <a href="https://rfl-urbaniak.github.io/teaching/sharedResources/slidesCrimRev.pdf">Revision slides for the exam</a>
+
 ### Project 
 
 The details of your project along with the project template can be download from the link below. All the deadlines are visible in our calendar. Deadlines:
