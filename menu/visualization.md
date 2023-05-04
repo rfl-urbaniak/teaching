@@ -26,10 +26,13 @@ Final deadline - 25 June
 Grade - 30 June    
 
 
-### Additional visualizations
+### Additional exercises
 
 - <a href="https://rfl-urbaniak.github.io/teaching/tutorials/vis23/titanic.zip">titanic</a>
 - <a href="https://rfl-urbaniak.github.io/teaching/tutorials/vis23/hate_crime.zip">hate crime</a>
+- <a href="https://rfl-urbaniak.github.io/teaching/tutorials/vis23/animations">animations</a>
+
+
 
 ### Lectures
 
