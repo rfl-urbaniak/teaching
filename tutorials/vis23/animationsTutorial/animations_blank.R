@@ -1,8 +1,11 @@
 #install.packages( pkgs = "rgdal", 
 #                  configure.args = c("--with-proj=/bin", "--with-gdal=/bin"),
 #                  dependencies=TRUE)
-#devtools::install_github('thomasp85/gganimate')
 
+# remove.packages("rlang")
+# install.packages("rlang")
+#devtools::install_github('thomasp85/gganimate')
+# install.packages("gifski")
 
 library(ggplot2)
 library(ggthemes)
