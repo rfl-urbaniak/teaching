@@ -20,8 +20,6 @@ The linked file contains a summary of the points you have collected during your 
 
 Congratulations to the two people who collected more than 60 points! Your exceptional performance will be recognized by adding the points above the limit to your score. This means you will receive more than 60 points from the tutorial.
 
-We noticed that one person who collected some points is not on our list of students, and we don't have their student ID number (NA value at the end of the list). Please contact us be writing an email.
-
 - <a href="https://rfl-urbaniak.github.io/teaching/sharedResources/grades/Grades_crim1505.pdf">Tutorial points (15.05)</a>
 
 ### Revision slides
