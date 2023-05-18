@@ -32,6 +32,7 @@ Grade - 30 June
 - <a href="https://rfl-urbaniak.github.io/teaching/tutorials/vis23/hate_crime.zip">hate crime</a>
 - <a href="https://rfl-urbaniak.github.io/teaching/tutorials/vis23/animationsTutorial.zip">animations</a>
 - <a href="https://rfl-urbaniak.github.io/teaching/tutorials/vis23/maps_vis.zip">maps tutorial</a>
+- <a href="https://rfl-urbaniak.github.io/teaching/tutorials/vis23/shootings_vis.zip">shootings</a>
 
 
 
