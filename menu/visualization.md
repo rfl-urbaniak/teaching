@@ -16,6 +16,7 @@ a {
 
 To submit your project, please utilize the link provided below. Clicking on the link will redirect you to a Google Form where you will be prompted to provide additional information. Kindly ensure that your project is compressed into a single folder, with a maximum size of 100MB after compression. Additionally, please remember to list all the authors involved. Feedback will be sent to the email address provided in the form.
 
+- <a href="https://docs.google.com/forms/d/e/1FAIpQLScYQpV-iuRg9FrpQk_8Ibz6lcF_U57CBkG_a5fEbr6rR9b41g/viewform?usp=sf_link">Link for uploading the project</a>
 
 
 ### Project 
