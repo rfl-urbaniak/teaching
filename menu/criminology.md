@@ -14,6 +14,13 @@ a {
 ## Introduction to Bayesian data analysis for criminology
 
 
+### Sending your project
+
+To submit your project, please utilize the link provided below. Clicking on the link will redirect you to a Google Form where you will be prompted to provide additional information. Kindly ensure that your project is compressed into a single folder, with a maximum size of 100MB after compression. Additionally, please remember to list all the authors involved. Feedback will be sent to the email address provided in the form.
+
+- <a href="https://docs.google.com/forms/d/e/1FAIpQLSdPrufxxqt5JO6wV2I4y5g3U5RanDiknAAJzC7OncjRJJ4vxQ/viewform?usp=sf_link">Link for uploading the project</a>
+
+
 ### Tutorial points (15.05)
 
 The linked file contains a summary of the points you have collected during your tutorials. To scale the points, they were multiplied by a factor of 1.2, so that 50 points are now equivalent to 60 points.

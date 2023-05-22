@@ -12,6 +12,12 @@ a {
 
 ## Data visualization and introduction to Bayesian data analysis for journalism studies
 
+### Sending your project
+
+To submit your project, please utilize the link provided below. Clicking on the link will redirect you to a Google Form where you will be prompted to provide additional information. Kindly ensure that your project is compressed into a single folder, with a maximum size of 100MB after compression. Additionally, please remember to list all the authors involved. Feedback will be sent to the email address provided in the form.
+
+
+
 ### Project 
 
 The details of your project along with the project template can be download from the link below. All the deadlines are visible in our calendar. Deadlines and the template:
