@@ -39,7 +39,7 @@ Grade - 30 June
 - <a href="https://rfl-urbaniak.github.io/teaching/tutorials/m23/shonubi.zip">Shonubi</a>
 - <a href="https://rfl-urbaniak.github.io/teaching/tutorials/m23/hubble.zip">Hubble</a> 
 - <a href="https://rfl-urbaniak.github.io/teaching/tutorials/crim23/firstModel.zip">Crime rate</a>
-- <a href="https://rfl-urbaniak.github.io/teaching/tutorials/crim23/logisticTut.zip">Logistic models</a>
+- <a href="https://rfl-urbaniak.github.io/teaching/tutorials/m23/logisticTutm.zip">Logistic models</a>
 
 ### Second tutorial
 
