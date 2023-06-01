@@ -14,11 +14,11 @@ a {
 ## Introduction to Bayesian data analysis for criminology
 
 
-### Sending your project
+### Feedback for the first version of your projects has been sent
 
-To submit your project, please utilize the link provided below. Clicking on the link will redirect you to a Google Form where you will be prompted to provide additional information. Kindly ensure that your project is compressed into a single folder, with a maximum size of 100MB after compression. Additionally, please remember to list all the authors involved. Feedback will be sent to the email address provided in the form.
-
-- <a href="https://docs.google.com/forms/d/e/1FAIpQLSdPrufxxqt5JO6wV2I4y5g3U5RanDiknAAJzC7OncjRJJ4vxQ/viewform?usp=sf_link">Link for uploading the project</a>
+We are happy to announce that we have finished sending the feedback of the first version of your projects. If you haven’t received feedback yet, please check your spam folder. If you have any concerns about the feedback or if you haven’t received feedback yet, please don’t hesitate to contact us at rfl.urbaniak+teaching@gmail.com     
+    
+Thank you for your hard work and dedication.
 
 
 ### Tutorial points (23.05)
