@@ -3,17 +3,6 @@ layout: page
 title: ""
 ---
 
-<head>
-  <!-- Add DataTables CSS -->
-  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.25/css/jquery.dataTables.css">
-
-  <!-- Add jQuery library -->
-  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-
-  <!-- Add DataTables JS -->
-  <script src="https://cdn.datatables.net/1.10.25/js/jquery.dataTables.js"></script>
-</head>
-
 
 <style>
 a {
@@ -24,24 +13,6 @@ a {
 </style>
 
 ## General (Bayesian) methodology for philosophers
-"C:\Users\nikod\Documents\RProjects\teaching\sharedResources\grades\gVis_small.csv"
-
-<table id="myTable"></table>
-
-<script>
-  $(document).ready(function() {
-    $('#myTable').DataTable({
-      "ajax": "https://rfl-urbaniak.github.io/teaching/sharedResources/grades/gVis_small.csv", // Path to your CSV file
-      "columns": [
-        { "data": "Column1" }, // Specify column names or indices from the CSV dataset
-        { "data": "Column2" },
-        // Add more columns as needed
-      ]
-    });
-  });
-</script>
-
-
 
 
 ### Feedback for the first version of your projects has been sent
