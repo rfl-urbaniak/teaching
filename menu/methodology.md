@@ -14,6 +14,11 @@ a {
 
 ## General (Bayesian) methodology for philosophers
 
+### Exam registration form
+
+If you are willing to participate in the final exam, please fill out this registration form:
+
+- <a href="https://docs.google.com/forms/d/e/1FAIpQLSfs64iNnR4bk9FQbLZ5hUyE5cgxhNfELFIzjClJUT7ACGXR8w/viewform?usp=sf_link">Registration form</a>
 
 ### Feedback for the first version of your projects has been sent
 

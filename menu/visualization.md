@@ -12,6 +12,12 @@ a {
 
 ## Data visualization and introduction to Bayesian data analysis for journalism studies
 
+### Exam registration form
+
+If you are willing to participate in the final exam, please fill out this registration form:
+
+- <a href="https://docs.google.com/forms/d/e/1FAIpQLSdQ6Qsp_ISoJr1LgmQDIAkCOxZuZdmEQMwCnVuKiKJ1TMf5cQ/viewform?usp=sf_link">Registration form</a>
+
 ### Feedback for the first version of your projects has been sent
 
 We are happy to announce that we have finished sending the feedback of the first version of your projects. If you haven’t received feedback yet, please check your spam folder. If you have any concerns about the feedback or if you haven’t received feedback yet, please don’t hesitate to contact us at rfl.urbaniak+teaching@gmail.com     
