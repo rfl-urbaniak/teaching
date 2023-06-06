@@ -22,6 +22,10 @@ We are happy to announce that we have finished sending the feedback of the first
 Thank you for your hard work and dedication.
 
 
+### Revision slides
+
+- <a href="https://rfl-urbaniak.github.io/teaching/sharedResources/slidesCrimRev.pdf">Revision slides for the exam</a>
+
 ### Project 
 
 The details of your project along with the project template can be download from the link below. All the deadlines are visible in our calendar. Deadlines:
