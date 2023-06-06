@@ -13,6 +13,11 @@ a {
 
 ## Introduction to Bayesian data analysis for criminology
 
+### Exam registration form
+
+If you are willing to participate in the final exam, please fill out this registration form:
+
+- <a href="https://docs.google.com/forms/d/e/1FAIpQLSenChmOf9-BYm-ybIJU5t_GnJJB1mU5hXI70RCh_te0wDIOqw/viewform?usp=sf_link">Registration form</a>
 
 ### Feedback for the first version of your projects has been sent
 
