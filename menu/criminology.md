@@ -19,11 +19,12 @@ If you are willing to participate in the final exam, please fill out this regist
 
 - <a href="https://docs.google.com/forms/d/e/1FAIpQLSenChmOf9-BYm-ybIJU5t_GnJJB1mU5hXI70RCh_te0wDIOqw/viewform?usp=sf_link">Registration form</a>
 
-### Feedback for the first version of your projects has been sent
 
-We are happy to announce that we have finished sending the feedback of the first version of your projects. If you haven’t received feedback yet, please check your spam folder. If you have any concerns about the feedback or if you haven’t received feedback yet, please don’t hesitate to contact us at rfl.urbaniak+teaching@gmail.com     
-    
-Thank you for your hard work and dedication.
+### Second version of the project
+
+Here you can submit your second version of the project through the Google Form.
+
+- <a href="https://docs.google.com/forms/d/e/1FAIpQLSdPrufxxqt5JO6wV2I4y5g3U5RanDiknAAJzC7OncjRJJ4vxQ/viewform?usp=sf_link">Form for Submitting Projects</a>
 
 
 ### Tutorial points (23.05)
