@@ -19,6 +19,13 @@ If you are willing to participate in the final exam, please fill out this regist
 - <a href="https://docs.google.com/forms/d/e/1FAIpQLSdQ6Qsp_ISoJr1LgmQDIAkCOxZuZdmEQMwCnVuKiKJ1TMf5cQ/viewform?usp=sf_link">Registration form</a>
 
 
+### Tutorial points (12.06)
+
+The linked file contains a summary of the points you have collected during your tutorials. 
+
+- <a href="https://rfl-urbaniak.github.io/teaching/sharedResources/grades/TutVis.pdf">Tutorial points (12.06)</a>
+
+
 ### Second version of the project
 
 Here you can submit your second version of the project through the Google Form.
