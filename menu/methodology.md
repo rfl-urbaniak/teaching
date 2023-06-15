@@ -28,6 +28,12 @@ Here you can submit your second version of the project through the Google Form.
 - <a href="https://docs.google.com/forms/d/e/1FAIpQLScyKusftv90D5j0bW-uRFoz4yowozO9dfl-Il84cJx-Nndekg/viewform?usp=sf_link">Form for Submitting Projects</a>
 
 
+### Tutorial points (15.06)
+
+The linked file contains a summary of the points you have collected during your tutorials. 
+
+- <a href="https://rfl-urbaniak.github.io/teaching/sharedResources/grades/gradesMet.pdf">Tutorial points (15.06)</a>
+
 ### Revision slides
 
 - <a href="https://rfl-urbaniak.github.io/teaching/sharedResources/slidesCrimRev.pdf">Revision slides for the exam</a>
