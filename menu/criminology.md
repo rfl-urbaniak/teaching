@@ -13,6 +13,14 @@ a {
 
 ## Introduction to Bayesian data analysis for criminology
 
+### Exam results
+
+In this file you can check the results of your exam. If you forgot to send your answers via the form, please do so.
+
+- <a href="https://rfl-urbaniak.github.io/teaching/sharedResources/grades/Crim23exam1.examWithResultsAnon.csv">Exam results</a>
+
+
+
 ### Exam answers
 
 You can submit your answers to the exam via this link
