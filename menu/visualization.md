@@ -12,6 +12,11 @@ a {
 
 ## Data visualization and introduction to Bayesian data analysis for journalism studies
 
+### Projects feedback has been sent!
+
+Apologies for the slight delay in sending you the feedback for the second version of your projects. If you have sent it and have not received the message, please check your spam folder. If it is not there, please let me know.
+
+
 ### Exam registration form
 
 If you are willing to participate in the final exam, please fill out this registration form:
