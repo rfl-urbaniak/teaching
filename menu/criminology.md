@@ -18,7 +18,7 @@ a {
 
 In the file below, you can check how many points you have earned so far, both for tutorials and the exam. Thank you for your hard work!
 
-- <a href="https://rfl-urbaniak.github.io/teaching/sharedResources/grades/Grades_crim2106.pdf">Tutorial points (21.06)</a>
+- <a href="https://rfl-urbaniak.github.io/teaching/sharedResources/grades/Grades_crim2106.pdf">Summed points (21.06)</a>
 
 
 ### Registration calendar
