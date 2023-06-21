@@ -14,6 +14,13 @@ a {
 ## Introduction to Bayesian data analysis for criminology
 
 
+### Summed points (21.06)
+
+In the file below, you can check how many points you have earned so far, both for tutorials and the exam. Thank you for your hard work!
+
+- <a href="https://rfl-urbaniak.github.io/teaching/sharedResources/grades/Grades_crim2106.pdf">Tutorial points (21.06)</a>
+
+
 ### Registration calendar
 
 Please use this calendar to register for a conversation about your project. To claim points for your project, you need to answer some questions about the code you used. These questions will only assess your understanding of your work and confirm that you are the author. All authors of a project need to be present. Remember to bring your student ID with you.
@@ -29,21 +36,6 @@ Please use this calendar to register for a conversation about your project. To c
 
 Apologies for the slight delay in sending you the feedback for the second version of your projects. If you have sent it and have not received the message, please check your spam folder. If it is not there, please let me know.
 
-
-### Exam results (updated)
-
-In this file you can check the results of your exam. If you forgot to send your answers via the form, please do so.
-
-- <a href="https://rfl-urbaniak.github.io/teaching/sharedResources/grades/Crim23exam1.examWithResultsAnonLast.csv">Exam results</a>
-
-
-### Tutorial points (23.05)
-
-The linked file contains a summary of the points you have collected during your tutorials. To scale the points, they were multiplied by a factor of 1.2, so that 50 points are now equivalent to 60 points.
-
-Congratulations to the people who collected more than 60 points! Your exceptional performance will be recognized by adding the points above the limit to your score. This means you will receive more than 60 points from the tutorial.
-
-- <a href="https://rfl-urbaniak.github.io/teaching/sharedResources/grades/Grades_crim2305.pdf">Tutorial points (23.05)</a>
 
 ### Revision slides
 
