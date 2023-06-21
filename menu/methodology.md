@@ -14,23 +14,17 @@ a {
 
 ## General (Bayesian) methodology for philosophers
 
+### Exam answers
+
+You can submit your answers to the exam via this link
+
+- <a href="https://docs.google.com/forms/d/e/1FAIpQLSfT-21mw3JvpXxyy81bekO9aQf2jhejWWqANXDRMrT_SIY1CQ/viewform?vc=0&c=0&w=1&flr=0">Form for submitting exam answers</a>
+
+
 ### Projects feedback has been sent!
 
 Apologies for the slight delay in sending you the feedback for the second version of your projects. If you have sent it and have not received the message, please check your spam folder. If it is not there, please let me know.
 
-
-### Exam registration form
-
-If you are willing to participate in the final exam, please fill out this registration form:
-
-- <a href="https://docs.google.com/forms/d/e/1FAIpQLSfs64iNnR4bk9FQbLZ5hUyE5cgxhNfELFIzjClJUT7ACGXR8w/viewform?usp=sf_link">Registration form</a>
-
-
-### Second version of the project
-
-Here you can submit your second version of the project through the Google Form.
-
-- <a href="https://docs.google.com/forms/d/e/1FAIpQLScyKusftv90D5j0bW-uRFoz4yowozO9dfl-Il84cJx-Nndekg/viewform?usp=sf_link">Form for Submitting Projects</a>
 
 
 ### Tutorial points (15.06)

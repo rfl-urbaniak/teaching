@@ -14,6 +14,17 @@ a {
 ## Introduction to Bayesian data analysis for criminology
 
 
+### Registration calendar
+
+Please use this calendar to register for a conversation about your project. To claim points for your project, you need to answer some questions about the code you used. These questions will only assess your understanding of your work and confirm that you are the author. All authors of a project need to be present. Remember to bring your student ID with you.
+
+<!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/rfl-urbaniak/methodology-project-conversations" style="min-width:320px;height:700px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+<!-- Calendly inline widget end -->
+
+
+
 ### Projects feedback has been sent!
 
 Apologies for the slight delay in sending you the feedback for the second version of your projects. If you have sent it and have not received the message, please check your spam folder. If it is not there, please let me know.
@@ -24,13 +35,6 @@ Apologies for the slight delay in sending you the feedback for the second versio
 In this file you can check the results of your exam. If you forgot to send your answers via the form, please do so.
 
 - <a href="https://rfl-urbaniak.github.io/teaching/sharedResources/grades/Crim23exam1.examWithResultsAnonLast.csv">Exam results</a>
-
-
-### Exam answers
-
-You can submit your answers to the exam via this link
-
-- <a href="https://forms.gle/CzfWRb7PyWHpTRx3A">Form for submitting exam answers</a>
 
 
 ### Tutorial points (23.05)
