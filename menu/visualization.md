@@ -12,6 +12,18 @@ a {
 
 ## Data visualization and introduction to Bayesian data analysis for journalism studies
 
+
+### Registration calendar
+
+Please use this calendar to register for a conversation about your project. To claim points for your project, you need to answer some questions about the code you used. These questions will only assess your understanding of your work and confirm that you are the author. All authors of a project need to be present. Remember to bring your student ID with you.
+
+<!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/niklewa/data-visualization-project-conversation" style="min-width:320px;height:700px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+<!-- Calendly inline widget end -->
+
+
+
 ### Projects feedback has been sent!
 
 Apologies for the slight delay in sending you the feedback for the second version of your projects. If you have sent it and have not received the message, please check your spam folder. If it is not there, please let me know.
