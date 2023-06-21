@@ -1,4 +1,4 @@
-,No,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11,Q12,raw,points/60 
+,No,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11,Q12,totals,Sum/60
 1,287442,"B, C","A, D","C, D","A, D","B, C, D","A, C, D","B, D","A, C","C, D","B, C","A, C","C, D",7.8,41.053
 2,287445,"B, C",A,C,NA,NA,"B, D",A,NA,NA,NA,"A, D",NA,3.4,17.895
 3,284310,"B, C, D",A,C,B,"A, C","B, D","A, C, D",C,C,D,"A, D",D,3.6,18.947
@@ -11,3 +11,7 @@
 10,288633,"B, C, D","A, D","C, D","A, C, D","A, C","B, C, D","A, D","A, C, D","A, D","A, B, C","A, D","A, B, D",7.6,40
 11,287459,C,D,C,NA,A,D,C,NA,C,NA,"A, D",NA,2,10.526
 12,281389,"B, C",A,C,NA,NA,D,"A, C, D",NA,C,NA,B,NA,5.8,30.526
+13,284299,"B, C","A, D",C,NA,A,"B, D","A, D",NA,D,C,"A, D",C,6.6,34.737
+14,286930,"B, C","A, C",C,"A, D",NA,B,"B, C",NA,D,"A, D","A, C",A,6.2,32.632
+15,287448,"B, C",A,C,A,NA,"C, D",A,B,"C, D",NA,"A, D",D,4.2,22.105
+16,288635,C,A,C,NA,C,"A, D",A,NA,D,C,"A, D",D,0.8,4.211
