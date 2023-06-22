@@ -18,7 +18,7 @@ a {
 
 Here you can submit your final version of the project through the Google Form.
 
-- <a href="https://docs.google.com/forms/d/e/1FAIpQLScYQpV-iuRg9FrpQk_8Ibz6lcF_U57CBkG_a5fEbr6rR9b41g/viewform?usp=sf_link">Form for Submitting Projects</a>
+- <a href="https://docs.google.com/forms/d/e/1FAIpQLScyKusftv90D5j0bW-uRFoz4yowozO9dfl-Il84cJx-Nndekg/viewform?usp=sf_link">Form for Submitting Projects</a>
 
 ### Exam results 
 
