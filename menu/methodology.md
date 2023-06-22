@@ -14,6 +14,12 @@ a {
 
 ## General (Bayesian) methodology for philosophers
 
+### Final version of the project
+
+Here you can submit your final version of the project through the Google Form.
+
+- <a href="https://docs.google.com/forms/d/e/1FAIpQLScYQpV-iuRg9FrpQk_8Ibz6lcF_U57CBkG_a5fEbr6rR9b41g/viewform?usp=sf_link">Form for Submitting Projects</a>
+
 ### Exam results 
 
 In this file you can check the results of your exam. If you forgot to send your answers via the form, please do so.
