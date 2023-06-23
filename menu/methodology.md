@@ -20,16 +20,12 @@ Here you can submit your final version of the project through the Google Form.
 
 - <a href="https://docs.google.com/forms/d/e/1FAIpQLScyKusftv90D5j0bW-uRFoz4yowozO9dfl-Il84cJx-Nndekg/viewform?usp=sf_link">Form for Submitting Projects</a>
 
-### Exam results 
+### Exam results (updated)
 
 In this file you can check the results of your exam. If you forgot to send your answers via the form, please do so.
 
-- <a href="https://rfl-urbaniak.github.io/teaching/sharedResources/grades/Met23exam1.examWithResultsAnon.csv">Exam results</a>
+- <a href="https://rfl-urbaniak.github.io/teaching/sharedResources/grades/Met23exam1.examWithResultsAnonComplete.csv">Exam results</a>
 
-
-### Exam answers
-
-You can submit your answers to the exam via this link
 
 ### Registration calendar
 
@@ -40,9 +36,6 @@ Please use this calendar to register for a conversation about your project. To c
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 <!-- Calendly inline widget end -->
 
-
-
-- <a href="https://docs.google.com/forms/d/e/1FAIpQLSfT-21mw3JvpXxyy81bekO9aQf2jhejWWqANXDRMrT_SIY1CQ/viewform?vc=0&c=0&w=1&flr=0">Form for submitting exam answers</a>
 
 
 ### Projects feedback has been sent!
