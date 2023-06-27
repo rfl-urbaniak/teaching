@@ -12,42 +12,11 @@ a {
 
 ## Data visualization and introduction to Bayesian data analysis for journalism studies
 
-### Final version of the project
+### Sum of the points (27.06)
 
-Here you can submit your final version of the project through the Google Form.
+The linked file contains a summary of the points you have collected from all the paths. Thank you for your hard work and commitment! Please let us know if you spot any errors.
 
-- <a href="https://docs.google.com/forms/d/e/1FAIpQLScYQpV-iuRg9FrpQk_8Ibz6lcF_U57CBkG_a5fEbr6rR9b41g/viewform?usp=sf_link">Form for Submitting Projects</a>
-
-
-### Registration calendar
-
-Please use this calendar to register for a conversation about your project. To claim points for your project, you need to answer some questions about the code you used. These questions will only assess your understanding of your work and confirm that you are the author. All authors of a project need to be present. Remember to bring your student ID with you.
-
-<!-- Calendly inline widget begin -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/niklewa/data-visualization-project-conversation" style="min-width:320px;height:700px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-<!-- Calendly inline widget end -->
-
-
-
-### Projects feedback has been sent!
-
-Apologies for the slight delay in sending you the feedback for the second version of your projects. If you have sent it and have not received the message, please check your spam folder. If it is not there, please let me know.
-
-
-### Exam registration form
-
-If you are willing to participate in the final exam, please fill out this registration form:
-
-- <a href="https://docs.google.com/forms/d/e/1FAIpQLSdQ6Qsp_ISoJr1LgmQDIAkCOxZuZdmEQMwCnVuKiKJ1TMf5cQ/viewform?usp=sf_link">Registration form</a>
-
-
-### Tutorial points (12.06)
-
-The linked file contains a summary of the points you have collected during your tutorials. 
-
-- <a href="https://rfl-urbaniak.github.io/teaching/sharedResources/grades/TutVis.pdf">Tutorial points (12.06)</a>
-
+- <a href="https://rfl-urbaniak.github.io/teaching/sharedResources/grades/gradesVis.pdf">Sum of the points (27.06)</a>
 
 
 ### Project 

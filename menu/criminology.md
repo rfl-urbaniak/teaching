@@ -13,34 +13,12 @@ a {
 
 ## Introduction to Bayesian data analysis for criminology
 
-### Final version of the project
+### Sum of the points (27.06)
 
-Here you can submit your final version of the project through the Google Form.
+The linked file contains a summary of the points you have collected from all the paths. Thank you for your hard work and commitment! Please let us know if you spot any errors.
 
-- <a href="https://docs.google.com/forms/d/e/1FAIpQLSdPrufxxqt5JO6wV2I4y5g3U5RanDiknAAJzC7OncjRJJ4vxQ/viewform?usp=sf_link">Form for Submitting Projects</a>
+- <a href="https://rfl-urbaniak.github.io/teaching/sharedResources/grades/GradesCrimSum.pdf">Sum of the points (27.06)</a>
 
-
-### Summed points (21.06)
-
-In the file below, you can check how many points you have earned so far, both for tutorials and the exam. Thank you for your hard work!
-
-- <a href="https://rfl-urbaniak.github.io/teaching/sharedResources/grades/Grades_crim2106.pdf">Summed points (21.06)</a>
-
-
-### Registration calendar
-
-Please use this calendar to register for a conversation about your project. To claim points for your project, you need to answer some questions about the code you used. These questions will only assess your understanding of your work and confirm that you are the author. All authors of a project need to be present. Remember to bring your student ID with you.
-
-<!-- Calendly inline widget begin -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/rfl-urbaniak/methodology-project-conversations" style="min-width:320px;height:700px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-<!-- Calendly inline widget end -->
-
-
-
-### Projects feedback has been sent!
-
-Apologies for the slight delay in sending you the feedback for the second version of your projects. If you have sent it and have not received the message, please check your spam folder. If it is not there, please let me know.
 
 
 ### Revision slides
