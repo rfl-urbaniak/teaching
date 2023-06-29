@@ -17,7 +17,7 @@ a {
 
 The linked file contains a summary of the points you have collected from all the paths. Thank you for your hard work and commitment! Please let us know if you spot any errors.
 
-- <a href="https://rfl-urbaniak.github.io/teaching/sharedResources/grades/GradesCrimSum.pdf">Sum of the points (27.06)</a>
+- <a href="https://rfl-urbaniak.github.io/teaching/sharedResources/grades/GradesCrimSumv2.pdf">Sum of the points (27.06)</a>
 
 
 
